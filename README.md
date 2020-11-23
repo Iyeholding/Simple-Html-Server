@@ -1,5 +1,5 @@
 # Simple-Html-Server
-[![Build Status]()
+[![Build Status](https://travis-ci.com/google/site-kit-wp.svg?token=smY3Y9yhMfh6hWnXQ2te&branch=develop)](https://travis-ci.com/google/site-kit-wp/)
 
 
  
