@@ -11,7 +11,7 @@ Note:*This project is out of development for 1-4 months.*
 | Date | Including|Version|
 |--|--|--|
 |26.11.2020|How To Start|v 1.0.1(Ready)|
-|30.11.2020|Start UI in index.html|v 1.0.2|
+|30.11.2020|Start UI in index.html|v 1.0.2(Ready)|
 
 >Realease will be coming in Github.
 >Start Your Server Tutorial is the How To Start Video  *UI can may not come* but v 1.0.1 is going to be a PDF File
